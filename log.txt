@@ -1,0 +1,35 @@
+08/26/2016  07:00 PM    <DIR>          .
+08/26/2016  07:00 PM    <DIR>          ..
+08/18/2016  07:40 PM    <DIR>          .idea
+08/19/2016  07:58 PM    <DIR>          automation
+08/26/2016  06:58 PM               203 bef.py
+08/19/2016  07:56 PM    <DIR>          class1
+08/05/2016  07:16 PM    <DIR>          cls
+08/07/2016  05:02 PM    <DIR>          cls3
+08/13/2016  12:10 PM    <DIR>          cls5
+08/11/2016  08:28 PM    <DIR>          cls6
+08/19/2016  08:32 PM               161 comparison.txt
+07/30/2016  09:24 AM    <DIR>          csv_read
+07/04/2016  08:07 PM    <DIR>          DE- 6 legal link docs
+07/17/2016  10:54 AM    <DIR>          files
+08/19/2016  08:25 PM               214 file_folder.py
+07/13/2016  09:19 PM    <DIR>          first
+07/23/2016  08:52 AM    <DIR>          happy
+07/23/2016  08:53 AM    <DIR>          happy_end
+04/21/2016  08:03 AM                65 join.py
+07/17/2016  10:41 AM    <DIR>          linux
+08/26/2016  07:00 PM                 0 log.txt
+06/25/2016  03:24 PM    <DIR>          New folder
+07/17/2016  05:21 PM    <DIR>          police
+08/18/2016  08:07 PM    <DIR>          pyton
+07/12/2016  09:10 PM    <DIR>          ready
+08/11/2016  07:56 PM               197 RemovingDuplicateValues.py
+08/11/2016  08:02 PM                14 RepititionInList.py
+07/17/2016  04:49 PM    <DIR>          svn_test
+07/23/2016  08:30 AM    <DIR>          swetha
+07/08/2016  10:27 AM    <DIR>          Task
+08/23/2016  08:13 PM    <DIR>          Task_test
+08/26/2016  06:57 PM               172 temp.txt
+08/23/2016  08:13 PM    <DIR>          test
+08/22/2016  10:01 PM    <DIR>          untitled
+07/30/2016  09:18 AM    <DIR>          xxx
