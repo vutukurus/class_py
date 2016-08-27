@@ -1,7 +1,7 @@
 import bef
 
-prime_match=[100,200,300]
-expected_count=[50,100,150]
+prime_match=[100,200,300,900]
+expected_count=[50,100,150,450]
 
 test_value=100
 print "i added this"
