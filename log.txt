@@ -7,7 +7,8 @@
 08/05/2016  07:16 PM    <DIR>          cls
 08/07/2016  05:02 PM    <DIR>          cls3
 08/13/2016  12:10 PM    <DIR>          cls5
-08/11/2016  08:28 PM    <DIR>          cls6
+08/11/2016  08:28 PM    <DIR>          cls6ddd
+I had added this line for my pupose
 08/19/2016  08:32 PM               161 comparison.txt
 07/30/2016  09:24 AM    <DIR>          csv_read
 07/04/2016  08:07 PM    <DIR>          DE- 6 legal link docs
