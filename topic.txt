@@ -1,0 +1,14 @@
+#data processing in txt, csv, xls, database
+#web processing ..beasutiful soup.
+#Testing  . web testing(selenium)
+#automations...subprocess
+
+#advanced..
+decorators
+generators--serialiser...
+list comprehensions -- list
+lambda
+multithreading ==>
+oops - ineher,over,overrd,polymorphism
+
+60% , 40-30%
