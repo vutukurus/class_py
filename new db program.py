@@ -7,7 +7,7 @@ place1 = raw_input("enter path for place 1:")
 place2 = raw_input("enter path for place 2:")
 
 table_list_Places = sqlite3.connect("places.db")
-#table_list_Places.execute("create table lists(place1 text,place2 text)")
+table_list_Places.execute("create table lists(place1 text,place2 text)")
 
 place1_lists = os.listdir(place1)
 place2_lists = os.listdir(place2)
