@@ -1,5 +1,5 @@
-file_name = r"C:\Users\siv\Desktop\log.txt"
-new_file =r"C:\Users\siv\Desktop\cleaned.txt"
+file_name = r"C:\Users\Sreedhar\Desktop\log.txt"
+new_file =r"C:\Users\Sreedhar\Desktop\cleaned.txt"
 
 c= open(new_file,'w')
 

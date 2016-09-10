@@ -1,0 +1,33 @@
+Level,Date and Time,Source,Event ID,Task Category,
+Error,42623.02417,Service Control Manager,7023,None,"The Connected Devices Platform Service service terminated with the following error: 
+Unspecified error"
+Error,42622.99225,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x8007007B
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=NetworkAvailable"
+Error,42622.99221,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x8007007B
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=NetworkAvailable"
+Warning,42622.99215,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x8007007B
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=NetworkAvailable"
+Warning,42622.99207,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x8007007B
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=NetworkAvailable"
+Error,42622.99199,Microsoft-Windows-Dhcp-Client,1002,Address Configuration State Event,The IP address lease 192.168.0.100 for the Network Card with network address 0xC038969860C7 has been denied by the DHCP server 192.168.0.1 (The DHCP Server sent a DHCPNACK message).
+Warning,42622.99067,Microsoft-Windows-DNS-Client,1014,-1014,Name resolution for the name incoming.telemetry.mozilla.org timed out after none of the configured DNS servers responded.
+Error,42622.98962,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x8007007B
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=NetworkAvailable"
+Warning,42622.98953,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x8007007B
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=NetworkAvailable"
+Error,42622.98934,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x800705B4
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=NetworkAvailable"
