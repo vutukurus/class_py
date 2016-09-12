@@ -1,0 +1,900 @@
+﻿Level,Date and Time,Source,Event ID,Task Category
+Error,11-09-2016 01:21:14 AM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x8007007B
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=TimerEvent"
+Warning,11-09-2016 01:21:09 AM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x8007007B
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=TimerEvent"
+Error,11-09-2016 01:20:37 AM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x8007007B
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=TimerEvent"
+Error,10-09-2016 11:21:33 PM,Microsoft-Windows-DistributedCOM,10010,None,The server {49BD2028-1523-11D1-AD79-00C04FD8FDFF} did not register with DCOM within the required timeout.
+Error,10-09-2016 11:21:14 PM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x8007007B
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=UserLogon;SessionId=15"
+Error,10-09-2016 11:21:12 PM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x8007007B
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=NetworkAvailable"
+Warning,10-09-2016 11:21:09 PM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x8007007B
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=UserLogon(15)"
+Warning,10-09-2016 11:21:02 PM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x8007007B
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=NetworkAvailable"
+Error,10-09-2016 11:20:41 PM,Microsoft-Windows-DistributedCOM,10016,None,"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{8D8F4F83-3594-4F07-8369-FC3C3CAE4919}
+ and APPID 
+{F72671A9-012C-4725-9D2F-2A4D32D65169}
+ to the user NT AUTHORITY\SYSTEM SID (S-1-5-18) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Warning,10-09-2016 11:20:34 PM,Microsoft-Windows-DNS-Client,1014,(1014),Name resolution for the name client.wns.windows.com timed out after none of the configured DNS servers responded.
+Error,10-09-2016 11:19:55 PM,Microsoft-Windows-DistributedCOM,10010,None,The server {49BD2028-1523-11D1-AD79-00C04FD8FDFF} did not register with DCOM within the required timeout.
+Error,10-09-2016 11:19:54 PM,Microsoft-Windows-DistributedCOM,10010,None,The server {D7FD466D-F6CF-4C8E-86DD-12E9B0FDAE48} did not register with DCOM within the required timeout.
+Error,10-09-2016 11:19:54 PM,Microsoft-Windows-DistributedCOM,10010,None,The server {D7FD466D-F6CF-4C8E-86DD-12E9B0FDAE48} did not register with DCOM within the required timeout.
+Error,10-09-2016 11:19:54 PM,Microsoft-Windows-DistributedCOM,10010,None,The server {D7FD466D-F6CF-4C8E-86DD-12E9B0FDAE48} did not register with DCOM within the required timeout.
+Error,10-09-2016 11:19:54 PM,Microsoft-Windows-DistributedCOM,10010,None,The server {D7FD466D-F6CF-4C8E-86DD-12E9B0FDAE48} did not register with DCOM within the required timeout.
+Error,10-09-2016 11:19:10 PM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x8007007B
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=UserLogon;SessionId=14"
+Warning,10-09-2016 11:19:07 PM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x8007007B
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=UserLogon(14)"
+Error,10-09-2016 11:18:59 PM,Microsoft-Windows-DistributedCOM,10016,None,"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{8D8F4F83-3594-4F07-8369-FC3C3CAE4919}
+ and APPID 
+{F72671A9-012C-4725-9D2F-2A4D32D65169}
+ to the user NT AUTHORITY\SYSTEM SID (S-1-5-18) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Error,10-09-2016 11:18:47 PM,Microsoft-Windows-DistributedCOM,10010,None,The server {37998346-3765-45B1-8C66-AA88CA6B20B8} did not register with DCOM within the required timeout.
+Error,10-09-2016 11:18:38 PM,Microsoft-Windows-DistributedCOM,10010,None,The server {9BA05972-F6A8-11CF-A442-00A0C90A8F39} did not register with DCOM within the required timeout.
+Error,10-09-2016 11:18:38 PM,Microsoft-Windows-DistributedCOM,10010,None,The server {9BA05972-F6A8-11CF-A442-00A0C90A8F39} did not register with DCOM within the required timeout.
+Error,10-09-2016 11:18:37 PM,Microsoft-Windows-DistributedCOM,10010,None,The server {9AA46009-3CE0-458A-A354-715610A075E6} did not register with DCOM within the required timeout.
+Error,10-09-2016 11:18:37 PM,Microsoft-Windows-DistributedCOM,10010,None,The server {9AA46009-3CE0-458A-A354-715610A075E6} did not register with DCOM within the required timeout.
+Error,10-09-2016 11:18:37 PM,Microsoft-Windows-DistributedCOM,10010,None,The server {9AA46009-3CE0-458A-A354-715610A075E6} did not register with DCOM within the required timeout.
+Error,10-09-2016 11:16:47 PM,Service Control Manager,7023,None,"The Connected Devices Platform Service service terminated with the following error: 
+Unspecified error"
+Error,10-09-2016 11:15:06 PM,Microsoft-Windows-DistributedCOM,10010,None,The server {37998346-3765-45B1-8C66-AA88CA6B20B8} did not register with DCOM within the required timeout.
+Error,10-09-2016 11:13:06 PM,Service Control Manager,7023,None,"The Connected Devices Platform Service service terminated with the following error: 
+Unspecified error"
+Warning,10-09-2016 10:33:50 PM,Microsoft-Windows-DNS-Client,1014,(1014),Name resolution for the name v10.vortex-win.data.microsoft.com timed out after none of the configured DNS servers responded.
+Warning,10-09-2016 10:25:51 PM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x8007007B
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=TimerEvent"
+Error,10-09-2016 10:25:35 PM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x8007007B
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=TimerEvent"
+Warning,10-09-2016 08:54:43 PM,Microsoft-Windows-DNS-Client,1014,(1014),Name resolution for the name client.wns.windows.com timed out after none of the configured DNS servers responded.
+Error,10-09-2016 08:25:58 PM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x8007007B
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=NetworkAvailable"
+Error,10-09-2016 08:25:54 PM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x8007007B
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=NetworkAvailable"
+Warning,10-09-2016 08:25:51 PM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x8007007B
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=NetworkAvailable"
+Warning,10-09-2016 08:25:46 PM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x8007007B
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=NetworkAvailable"
+Error,10-09-2016 08:25:39 PM,Bonjour Service,100,None,Local Hostname Sreedhar-PC.local already in use; will try Sreedhar-PC-2.local instead
+Error,10-09-2016 08:25:39 PM,Bonjour Service,100,None,mDNSCoreReceiveResponse: ProbeCount 2; will deregister   16 Sreedhar-PC.local. AAAA FE80:0000:0000:0000:FC5C:0A85:DE23:983F
+Error,10-09-2016 08:25:39 PM,Bonjour Service,100,None,mDNSCoreReceiveResponse: Received from FE80:0000:0000:0000:FC5C:0A85:DE23:983F:5353    4 Sreedhar-PC.local. Addr 192.168.0.101
+Error,10-09-2016 08:25:36 PM,Microsoft-Windows-Dhcp-Client,1002,Address Configuration State Event,The IP address lease 192.168.0.103 for the Network Card with network address 0xC038969860C7 has been denied by the DHCP server 192.168.0.1 (The DHCP Server sent a DHCPNACK message).
+Error,10-09-2016 07:21:28 PM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x8007007B
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=NetworkAvailable"
+Error,10-09-2016 07:21:25 PM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x8007007B
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=UserLogon;SessionId=13"
+Warning,10-09-2016 07:21:20 PM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x8007007B
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=NetworkAvailable"
+Error,10-09-2016 07:21:18 PM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x8007007B
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=NetworkAvailable"
+Warning,10-09-2016 07:21:15 PM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x8007007B
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=UserLogon(13)"
+Warning,10-09-2016 07:21:05 PM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x8007007B
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=NetworkAvailable"
+Error,10-09-2016 07:20:56 PM,Microsoft-Windows-DistributedCOM,10016,None,"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{8D8F4F83-3594-4F07-8369-FC3C3CAE4919}
+ and APPID 
+{F72671A9-012C-4725-9D2F-2A4D32D65169}
+ to the user NT AUTHORITY\SYSTEM SID (S-1-5-18) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Warning,10-09-2016 07:20:55 PM,Microsoft-Windows-DNS-Client,1014,(1014),Name resolution for the name ping.avast.com timed out after none of the configured DNS servers responded.
+Error,10-09-2016 07:20:52 PM,Microsoft-Windows-Dhcp-Client,1002,Address Configuration State Event,The IP address lease 192.168.0.105 for the Network Card with network address 0xC038969860C7 has been denied by the DHCP server 192.168.0.1 (The DHCP Server sent a DHCPNACK message).
+Warning,10-09-2016 05:17:42 PM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x8007007B
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=TimerEvent"
+Error,10-09-2016 05:17:17 PM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x8007007B
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=TimerEvent"
+Error,10-09-2016 05:08:24 PM,Service Control Manager,7046,None,"The following service has repeatedly stopped responding to service control requests: User Data Storage_902742f
+
+Contact the service vendor or the system administrator about whether to disable this service until the problem is identified.
+
+You may have to restart the computer in safe mode before you can disable the service."
+Error,10-09-2016 05:04:18 PM,Service Control Manager,7011,None,A timeout (30000 milliseconds) was reached while waiting for a transaction response from the CDPUserSvc_902742f service.
+Error,10-09-2016 05:03:48 PM,Microsoft-Windows-DistributedCOM,10016,None,"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{D63B10C5-BB46-4990-A94F-E40B9D520160}
+ and APPID 
+{9CA88EE3-ACB7-47C8-AFC4-AB702511C276}
+ to the user NT AUTHORITY\SYSTEM SID (S-1-5-18) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Error,10-09-2016 04:29:43 PM,Service Control Manager,7011,None,A timeout (30000 milliseconds) was reached while waiting for a transaction response from the CDPUserSvc_902742f service.
+Error,10-09-2016 04:21:43 PM,Service Control Manager,7011,None,A timeout (30000 milliseconds) was reached while waiting for a transaction response from the CDPUserSvc_902742f service.
+Error,10-09-2016 04:21:13 PM,Microsoft-Windows-DistributedCOM,10016,None,"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{D63B10C5-BB46-4990-A94F-E40B9D520160}
+ and APPID 
+{9CA88EE3-ACB7-47C8-AFC4-AB702511C276}
+ to the user NT AUTHORITY\SYSTEM SID (S-1-5-18) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Warning,10-09-2016 03:17:40 PM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x8007007B
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=TimerEvent"
+Error,10-09-2016 03:17:24 PM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x8007007B
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=TimerEvent"
+Error,10-09-2016 03:16:56 PM,Service Control Manager,7011,None,A timeout (30000 milliseconds) was reached while waiting for a transaction response from the UnistoreSvc_902742f service.
+Error,10-09-2016 03:07:12 PM,Service Control Manager,7011,None,A timeout (30000 milliseconds) was reached while waiting for a transaction response from the CDPUserSvc_902742f service.
+Error,10-09-2016 01:19:26 PM,Service Control Manager,7011,None,A timeout (30000 milliseconds) was reached while waiting for a transaction response from the CDPUserSvc_902742f service.
+Error,10-09-2016 01:18:56 PM,Service Control Manager,7011,None,A timeout (30000 milliseconds) was reached while waiting for a transaction response from the CDPUserSvc_902742f service.
+Error,10-09-2016 01:18:26 PM,Service Control Manager,7011,None,A timeout (30000 milliseconds) was reached while waiting for a transaction response from the CDPUserSvc_902742f service.
+Error,10-09-2016 01:17:56 PM,Service Control Manager,7011,None,A timeout (30000 milliseconds) was reached while waiting for a transaction response from the CDPUserSvc_902742f service.
+Error,10-09-2016 01:17:47 PM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x8007007B
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=NetworkAvailable"
+Warning,10-09-2016 01:17:42 PM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x8007007B
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=NetworkAvailable"
+Warning,10-09-2016 01:17:37 PM,Microsoft-Windows-DNS-Client,1014,(1014),Name resolution for the name win10.ipv6.microsoft.com. timed out after none of the configured DNS servers responded.
+Error,10-09-2016 01:15:22 PM,Microsoft-Windows-DistributedCOM,10016,None,"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{D63B10C5-BB46-4990-A94F-E40B9D520160}
+ and APPID 
+{9CA88EE3-ACB7-47C8-AFC4-AB702511C276}
+ to the user NT AUTHORITY\SYSTEM SID (S-1-5-18) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Error,10-09-2016 01:14:57 PM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x8007007B
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=TimerEvent"
+Warning,10-09-2016 01:14:54 PM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x8007007B
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=TimerEvent"
+Error,10-09-2016 12:05:16 PM,Microsoft-Windows-DistributedCOM,10016,None,"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{D63B10C5-BB46-4990-A94F-E40B9D520160}
+ and APPID 
+{9CA88EE3-ACB7-47C8-AFC4-AB702511C276}
+ to the user NT AUTHORITY\SYSTEM SID (S-1-5-18) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Error,10-09-2016 11:15:04 AM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x8007007B
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=NetworkAvailable"
+Error,10-09-2016 11:15:02 AM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x8007007B
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=UserLogon;SessionId=12"
+Warning,10-09-2016 11:14:54 AM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x8007007B
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=UserLogon(12)"
+Error,10-09-2016 11:14:52 AM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x8007007B
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=NetworkAvailable"
+Warning,10-09-2016 11:14:50 AM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x8007007B
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=NetworkAvailable"
+Warning,10-09-2016 11:14:32 AM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x8007007B
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=NetworkAvailable"
+Error,10-09-2016 11:14:30 AM,Microsoft-Windows-DistributedCOM,10016,None,"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{8D8F4F83-3594-4F07-8369-FC3C3CAE4919}
+ and APPID 
+{F72671A9-012C-4725-9D2F-2A4D32D65169}
+ to the user NT AUTHORITY\SYSTEM SID (S-1-5-18) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Error,10-09-2016 11:14:20 AM,Microsoft-Windows-Dhcp-Client,1002,Address Configuration State Event,The IP address lease 192.168.0.101 for the Network Card with network address 0xC038969860C7 has been denied by the DHCP server 192.168.0.1 (The DHCP Server sent a DHCPNACK message).
+Error,10-09-2016 03:20:18 AM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x8007007B
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=TimerEvent"
+Warning,10-09-2016 03:20:13 AM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x8007007B
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=TimerEvent"
+Error,10-09-2016 03:19:47 AM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x8007007B
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=TimerEvent"
+Error,10-09-2016 01:20:22 AM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x8007007B
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=NetworkAvailable"
+Warning,10-09-2016 01:20:17 AM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x8007007B
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=NetworkAvailable"
+Error,10-09-2016 01:20:15 AM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x8007007B
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=NetworkAvailable"
+Warning,10-09-2016 01:20:07 AM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x8007007B
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=NetworkAvailable"
+Error,10-09-2016 01:20:03 AM,Microsoft-Windows-Dhcp-Client,1002,Address Configuration State Event,The IP address lease 192.168.0.101 for the Network Card with network address 0xC038969860C7 has been denied by the DHCP server 192.168.0.1 (The DHCP Server sent a DHCPNACK message).
+Error,10-09-2016 12:38:48 AM,Microsoft-Windows-DistributedCOM,10010,None,The server {37998346-3765-45B1-8C66-AA88CA6B20B8} did not register with DCOM within the required timeout.
+Error,10-09-2016 12:36:48 AM,Service Control Manager,7023,None,"The Connected Devices Platform Service service terminated with the following error: 
+Unspecified error"
+Error,10-09-2016 12:36:48 AM,Microsoft-Windows-DistributedCOM,10010,None,The server {37998346-3765-45B1-8C66-AA88CA6B20B8} did not register with DCOM within the required timeout.
+Error,10-09-2016 12:34:48 AM,Service Control Manager,7023,None,"The Connected Devices Platform Service service terminated with the following error: 
+Unspecified error"
+Error,09-09-2016 11:48:50 PM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x8007007B
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=NetworkAvailable"
+Error,09-09-2016 11:48:47 PM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x8007007B
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=NetworkAvailable"
+Warning,09-09-2016 11:48:42 PM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x8007007B
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=NetworkAvailable"
+Warning,09-09-2016 11:48:35 PM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x8007007B
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=NetworkAvailable"
+Error,09-09-2016 11:48:28 PM,Microsoft-Windows-Dhcp-Client,1002,Address Configuration State Event,The IP address lease 192.168.0.100 for the Network Card with network address 0xC038969860C7 has been denied by the DHCP server 192.168.0.1 (The DHCP Server sent a DHCPNACK message).
+Warning,09-09-2016 11:46:34 PM,Microsoft-Windows-DNS-Client,1014,(1014),Name resolution for the name incoming.telemetry.mozilla.org timed out after none of the configured DNS servers responded.
+Error,09-09-2016 11:45:03 PM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x8007007B
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=NetworkAvailable"
+Warning,09-09-2016 11:44:55 PM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x8007007B
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=NetworkAvailable"
+Error,09-09-2016 11:44:39 PM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x800705B4
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=NetworkAvailable"
+Warning,09-09-2016 11:44:38 PM,Microsoft-Windows-DNS-Client,1014,(1014),Name resolution for the name _VLMCS._TCP timed out after none of the configured DNS servers responded.
+Error,09-09-2016 11:44:22 PM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x800705B4
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=NetworkAvailable"
+Warning,09-09-2016 11:44:03 PM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x800705B4
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=NetworkAvailable"
+Warning,09-09-2016 11:43:46 PM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x800705B4
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=NetworkAvailable"
+Warning,09-09-2016 11:43:35 PM,Microsoft-Windows-DNS-Client,1014,(1014),Name resolution for the name wpad timed out after none of the configured DNS servers responded.
+Error,09-09-2016 11:43:28 PM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x8007267C
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=NetworkAvailable"
+Error,09-09-2016 11:43:28 PM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x800705B4
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=NetworkAvailable"
+Warning,09-09-2016 11:43:27 PM,Microsoft-Windows-DNS-Client,1014,(1014),Name resolution for the name _VLMCS._TCP timed out after none of the configured DNS servers responded.
+Warning,09-09-2016 11:43:08 PM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x800705B4
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=NetworkAvailable"
+Warning,09-09-2016 11:42:49 PM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x800705B4
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=NetworkAvailable"
+Warning,09-09-2016 11:42:38 PM,Microsoft-Windows-DNS-Client,1014,(1014),Name resolution for the name _ldap._tcp.dc._msdcs.WORKGROUP timed out after none of the configured DNS servers responded.
+Warning,09-09-2016 11:42:28 PM,Microsoft-Windows-DNS-Client,1014,(1014),Name resolution for the name www.dlink.com.tw timed out after none of the configured DNS servers responded.
+Error,09-09-2016 11:42:00 PM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0xC004F074
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=NetworkAvailable"
+Warning,09-09-2016 11:41:53 PM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0xC004F074
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=NetworkAvailable"
+Error,09-09-2016 11:40:23 PM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x800705B4
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=NetworkAvailable"
+Error,09-09-2016 11:39:50 PM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x800705B4
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=NetworkAvailable"
+Warning,09-09-2016 11:39:50 PM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x800705B4
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=NetworkAvailable"
+Warning,09-09-2016 11:39:18 PM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x800705B4
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=NetworkAvailable"
+Warning,09-09-2016 11:39:05 PM,Microsoft-Windows-DNS-Client,1014,(1014),Name resolution for the name _ldap._tcp.dc._msdcs.WORKGROUP timed out after none of the configured DNS servers responded.
+Warning,09-09-2016 11:37:41 PM,Microsoft-Windows-DNS-Client,1014,(1014),Name resolution for the name pingsl.avast.com timed out after none of the configured DNS servers responded.
+Error,09-09-2016 11:36:32 PM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x800705B4
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=NetworkAvailable"
+Warning,09-09-2016 11:35:58 PM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x800705B4
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=NetworkAvailable"
+Warning,09-09-2016 11:35:47 PM,Microsoft-Windows-DNS-Client,1014,(1014),Name resolution for the name _ldap._tcp.dc._msdcs.WORKGROUP timed out after none of the configured DNS servers responded.
+Warning,09-09-2016 11:35:22 PM,Microsoft-Windows-DNS-Client,1014,(1014),Name resolution for the name wpad timed out after none of the configured DNS servers responded.
+Error,09-09-2016 11:35:14 PM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x8007007B
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=NetworkAvailable"
+Warning,09-09-2016 11:35:13 PM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x8007007B
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=NetworkAvailable"
+Warning,09-09-2016 11:34:05 PM,Microsoft-Windows-DNS-Client,1014,(1014),Name resolution for the name safebrowsing.google.com timed out after none of the configured DNS servers responded.
+Error,09-09-2016 11:32:55 PM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0xC004F074
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=NetworkAvailable"
+Warning,09-09-2016 11:32:50 PM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0xC004F074
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=NetworkAvailable"
+Error,09-09-2016 11:32:38 PM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x8007007B
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=NetworkAvailable"
+Warning,09-09-2016 11:32:37 PM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x8007007B
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=NetworkAvailable"
+Warning,09-09-2016 11:31:18 PM,Microsoft-Windows-DNS-Client,1014,(1014),Name resolution for the name cdn.content.prod.cms.msn.com timed out after none of the configured DNS servers responded.
+Error,09-09-2016 11:14:22 PM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x8007007B
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=NetworkAvailable"
+Error,09-09-2016 11:14:11 PM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x8007007B
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=NetworkAvailable"
+Warning,09-09-2016 11:14:04 PM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x8007007B
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=NetworkAvailable"
+Warning,09-09-2016 11:13:54 PM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x8007007B
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=NetworkAvailable"
+Error,09-09-2016 11:13:39 PM,Microsoft-Windows-Dhcp-Client,1002,Address Configuration State Event,The IP address lease 192.168.0.100 for the Network Card with network address 0xC038969860C7 has been denied by the DHCP server 192.168.0.1 (The DHCP Server sent a DHCPNACK message).
+Error,09-09-2016 10:37:13 PM,Microsoft-Windows-DistributedCOM,10016,None,"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{D63B10C5-BB46-4990-A94F-E40B9D520160}
+ and APPID 
+{9CA88EE3-ACB7-47C8-AFC4-AB702511C276}
+ to the user NT AUTHORITY\SYSTEM SID (S-1-5-18) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Error,09-09-2016 10:26:44 PM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x8007007B
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=NetworkAvailable"
+Warning,09-09-2016 10:26:34 PM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x8007007B
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=NetworkAvailable"
+Warning,09-09-2016 10:26:33 PM,Microsoft-Windows-DeviceSetupManager,123,None,The DSM service was delayed by 12 seconds for a driver query/download/install on device '{5D624F94-8850-40C3-A3FA-A4FD2080BAF3}\VWIFIMP_WFD\5&31E44248&0&12'
+Error,09-09-2016 10:23:53 PM,Microsoft-Windows-WPDClassInstaller,25088,Driver Installation,It was not possible to install drivers for the device USB\VID_22B8&PID_2E82&REV_0228. Error code 0xe0000217.
+Error,09-09-2016 09:41:40 PM,Microsoft-Windows-DistributedCOM,10016,None,"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{D63B10C5-BB46-4990-A94F-E40B9D520160}
+ and APPID 
+{9CA88EE3-ACB7-47C8-AFC4-AB702511C276}
+ to the user NT AUTHORITY\SYSTEM SID (S-1-5-18) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Error,09-09-2016 08:56:40 PM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x8007007B
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=NetworkAvailable"
+Warning,09-09-2016 08:56:34 PM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x8007007B
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=NetworkAvailable"
+Warning,09-09-2016 08:56:29 PM,Microsoft-Windows-DNS-Client,1014,(1014),Name resolution for the name v10.vortex-win.data.microsoft.com timed out after none of the configured DNS servers responded.
+Error,09-09-2016 08:56:24 PM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x8007007B
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=NetworkAvailable"
+Warning,09-09-2016 08:56:23 PM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x8007007B
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=NetworkAvailable"
+Error,09-09-2016 08:56:20 PM,Microsoft-Windows-Dhcp-Client,1002,Address Configuration State Event,The IP address lease 192.168.0.103 for the Network Card with network address 0xC038969860C7 has been denied by the DHCP server 192.168.0.1 (The DHCP Server sent a DHCPNACK message).
+Error,09-09-2016 08:05:15 PM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x8007007B
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=NetworkAvailable"
+Warning,09-09-2016 08:05:09 PM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x8007007B
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=NetworkAvailable"
+Warning,09-09-2016 08:04:54 PM,Microsoft-Windows-DNS-Client,1014,(1014),Name resolution for the name win10.ipv6.microsoft.com. timed out after none of the configured DNS servers responded.
+Error,09-09-2016 08:04:50 PM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x8007007B
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=NetworkAvailable"
+Error,09-09-2016 08:04:49 PM,Microsoft-Windows-Dhcp-Client,1002,Address Configuration State Event,The IP address lease 192.168.0.100 for the Network Card with network address 0xC038969860C7 has been denied by the DHCP server 192.168.0.1 (The DHCP Server sent a DHCPNACK message).
+Warning,09-09-2016 08:04:46 PM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x8007007B
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=NetworkAvailable"
+Warning,09-09-2016 08:04:42 PM,Microsoft-Windows-DNS-Client,1014,(1014),Name resolution for the name www.google.com timed out after none of the configured DNS servers responded.
+Warning,09-09-2016 08:04:41 PM,Microsoft-Windows-DNS-Client,1014,(1014),Name resolution for the name w7.web.whatsapp.com timed out after none of the configured DNS servers responded.
+Warning,09-09-2016 08:04:30 PM,Microsoft-Windows-DNS-Client,1014,(1014),Name resolution for the name ui.ff.avast.com timed out after none of the configured DNS servers responded.
+Error,09-09-2016 07:41:59 PM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x8007007B
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=UserLogon;SessionId=11"
+Error,09-09-2016 07:41:57 PM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x8007007B
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=NetworkAvailable"
+Warning,09-09-2016 07:41:54 PM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x8007007B
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=UserLogon(11)"
+Warning,09-09-2016 07:41:49 PM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x8007007B
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=NetworkAvailable"
+Error,09-09-2016 07:41:26 PM,Microsoft-Windows-DistributedCOM,10016,None,"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{8D8F4F83-3594-4F07-8369-FC3C3CAE4919}
+ and APPID 
+{F72671A9-012C-4725-9D2F-2A4D32D65169}
+ to the user NT AUTHORITY\SYSTEM SID (S-1-5-18) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Error,09-09-2016 06:15:40 PM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x8007007B
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=NetworkAvailable"
+Error,09-09-2016 06:15:38 PM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x8007007B
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=NetworkAvailable"
+Warning,09-09-2016 06:15:34 PM,Microsoft-Windows-DNS-Client,1014,(1014),Name resolution for the name pingsl.avast.com timed out after none of the configured DNS servers responded.
+Warning,09-09-2016 06:15:32 PM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x8007007B
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=NetworkAvailable"
+Warning,09-09-2016 06:15:25 PM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x8007007B
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=NetworkAvailable"
+Error,09-09-2016 06:15:18 PM,Microsoft-Windows-Dhcp-Client,1002,Address Configuration State Event,The IP address lease 192.168.0.102 for the Network Card with network address 0xC038969860C7 has been denied by the DHCP server 192.168.0.1 (The DHCP Server sent a DHCPNACK message).
+Warning,09-09-2016 06:04:20 PM,Microsoft-Windows-DNS-Client,1014,(1014),Name resolution for the name content.googleapis.com timed out after none of the configured DNS servers responded.
+Warning,09-09-2016 06:04:10 PM,Microsoft-Windows-DNS-Client,1014,(1014),Name resolution for the name tile-service.weather.microsoft.com timed out after none of the configured DNS servers responded.
+Warning,09-09-2016 05:46:32 PM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x8007007B
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=TimerEvent"
+Error,09-09-2016 05:46:15 PM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x8007007B
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=TimerEvent"
+Error,09-09-2016 03:46:40 PM,Microsoft-Windows-DistributedCOM,10016,None,"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{D63B10C5-BB46-4990-A94F-E40B9D520160}
+ and APPID 
+{9CA88EE3-ACB7-47C8-AFC4-AB702511C276}
+ to the user NT AUTHORITY\SYSTEM SID (S-1-5-18) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Warning,09-09-2016 03:46:32 PM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x8007007B
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=TimerEvent"
+Error,09-09-2016 03:46:08 PM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x8007007B
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=TimerEvent"
+Warning,09-09-2016 01:46:31 PM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x8007007B
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=TimerEvent"
+Error,09-09-2016 01:46:07 PM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x8007007B
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=TimerEvent"
+Warning,09-09-2016 11:46:29 AM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x8007007B
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=TimerEvent"
+Error,09-09-2016 11:46:16 AM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x8007007B
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=TimerEvent"
+Error,09-09-2016 10:50:16 AM,Microsoft-Windows-DistributedCOM,10016,None,"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{D63B10C5-BB46-4990-A94F-E40B9D520160}
+ and APPID 
+{9CA88EE3-ACB7-47C8-AFC4-AB702511C276}
+ to the user NT AUTHORITY\SYSTEM SID (S-1-5-18) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Error,09-09-2016 09:46:39 AM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x8007007B
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=NetworkAvailable"
+Error,09-09-2016 09:46:37 AM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x8007007B
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=NetworkAvailable"
+Warning,09-09-2016 09:46:31 AM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x8007007B
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=NetworkAvailable"
+Warning,09-09-2016 09:46:24 AM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x8007007B
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=NetworkAvailable"
+Error,09-09-2016 09:46:17 AM,Microsoft-Windows-Dhcp-Client,1002,Address Configuration State Event,The IP address lease 192.168.0.101 for the Network Card with network address 0xC038969860C7 has been denied by the DHCP server 192.168.0.1 (The DHCP Server sent a DHCPNACK message).
+Error,09-09-2016 09:13:05 AM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x8007007B
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=UserLogon;SessionId=10"
+Warning,09-09-2016 09:13:01 AM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x8007007B
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=UserLogon(10)"
+Error,09-09-2016 09:12:54 AM,Microsoft-Windows-DistributedCOM,10016,None,"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{8D8F4F83-3594-4F07-8369-FC3C3CAE4919}
+ and APPID 
+{F72671A9-012C-4725-9D2F-2A4D32D65169}
+ to the user NT AUTHORITY\SYSTEM SID (S-1-5-18) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Error,09-09-2016 09:10:45 AM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x8007139F
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=NetworkAvailable"
+Warning,09-09-2016 09:10:41 AM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x8007007B
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=NetworkAvailable"
+Error,09-09-2016 12:43:05 AM,Microsoft-Windows-DistributedCOM,10010,None,The server {37998346-3765-45B1-8C66-AA88CA6B20B8} did not register with DCOM within the required timeout.
+Error,09-09-2016 12:41:05 AM,Service Control Manager,7023,None,"The Connected Devices Platform Service service terminated with the following error: 
+Unspecified error"
+Warning,09-09-2016 12:40:33 AM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x8007007B
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=TimerEvent"
+Error,09-09-2016 12:40:14 AM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x8007007B
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=TimerEvent"
+Error,08-09-2016 10:40:34 PM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x8007007B
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=UserLogon;SessionId=9"
+Warning,08-09-2016 10:40:31 PM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x8007007B
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=UserLogon(9)"
+Error,08-09-2016 10:40:23 PM,Microsoft-Windows-DistributedCOM,10016,None,"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{8D8F4F83-3594-4F07-8369-FC3C3CAE4919}
+ and APPID 
+{F72671A9-012C-4725-9D2F-2A4D32D65169}
+ to the user NT AUTHORITY\SYSTEM SID (S-1-5-18) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Error,08-09-2016 10:16:20 PM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x8007139F
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=NetworkAvailable"
+Warning,08-09-2016 10:16:20 PM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x8007007B
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=NetworkAvailable"
+Error,08-09-2016 09:14:53 PM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x8007139F
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=TimerEvent"
+Warning,08-09-2016 09:14:53 PM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x8007267C
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=TimerEvent"
+Warning,08-09-2016 09:12:01 PM,Microsoft-Windows-DNS-Client,1014,(1014),Name resolution for the name win10.ipv6.microsoft.com. timed out after none of the configured DNS servers responded.
+Warning,08-09-2016 04:40:16 PM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x8007007B
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=TimerEvent"
+Error,08-09-2016 04:40:00 PM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x8007007B
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=TimerEvent"
+Error,08-09-2016 02:40:22 PM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x8007007B
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=NetworkAvailable"
+Warning,08-09-2016 02:40:17 PM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x8007007B
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=NetworkAvailable"
+Error,08-09-2016 02:39:29 PM,Microsoft-Windows-DistributedCOM,10010,None,The server {37998346-3765-45B1-8C66-AA88CA6B20B8} did not register with DCOM within the required timeout.
+Error,08-09-2016 02:39:15 PM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x8007007B
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=NetworkAvailable"
+Warning,08-09-2016 02:39:07 PM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x8007007B
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=NetworkAvailable"
+Warning,08-09-2016 02:39:04 PM,Microsoft-Windows-DNS-Client,1014,(1014),Name resolution for the name win10.ipv6.microsoft.com. timed out after none of the configured DNS servers responded.
+Error,08-09-2016 02:38:50 PM,Microsoft-Windows-Dhcp-Client,1002,Address Configuration State Event,The IP address lease 192.168.0.108 for the Network Card with network address 0xC038969860C7 has been denied by the DHCP server 192.168.0.1 (The DHCP Server sent a DHCPNACK message).
+Error,08-09-2016 02:37:29 PM,Service Control Manager,7023,None,"The Connected Devices Platform Service service terminated with the following error: 
+Unspecified error"
+Error,08-09-2016 02:35:39 PM,Microsoft-Windows-DistributedCOM,10010,None,The server {37998346-3765-45B1-8C66-AA88CA6B20B8} did not register with DCOM within the required timeout.
+Error,08-09-2016 02:33:39 PM,Service Control Manager,7023,None,"The Connected Devices Platform Service service terminated with the following error: 
+Unspecified error"
+Error,08-09-2016 02:31:04 PM,Microsoft-Windows-DistributedCOM,10010,None,The server {37998346-3765-45B1-8C66-AA88CA6B20B8} did not register with DCOM within the required timeout.
+Error,08-09-2016 02:29:04 PM,Service Control Manager,7023,None,"The Connected Devices Platform Service service terminated with the following error: 
+Unspecified error"
+Error,08-09-2016 12:40:22 PM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x8007007B
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=NetworkAvailable"
+Warning,08-09-2016 12:40:16 PM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x8007007B
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=NetworkAvailable"
+Warning,08-09-2016 12:39:44 PM,Microsoft-Windows-DNS-Client,1014,(1014),Name resolution for the name knowledge.rapidssl.com timed out after none of the configured DNS servers responded.
+Warning,08-09-2016 12:39:33 PM,Microsoft-Windows-DNS-Client,1014,(1014),Name resolution for the name knowledge.rapidssl.com timed out after none of the configured DNS servers responded.
+Warning,08-09-2016 11:15:45 AM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x8007007B
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=TimerEvent"
+Error,08-09-2016 11:15:11 AM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x8007007B
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=TimerEvent"
+Error,08-09-2016 10:37:39 AM,Microsoft-Windows-DistributedCOM,10010,None,The server {37998346-3765-45B1-8C66-AA88CA6B20B8} did not register with DCOM within the required timeout.
+Error,08-09-2016 10:35:39 AM,Service Control Manager,7023,None,"The Connected Devices Platform Service service terminated with the following error: 
+Unspecified error"
+Error,08-09-2016 10:33:51 AM,Microsoft-Windows-DistributedCOM,10010,None,The server {37998346-3765-45B1-8C66-AA88CA6B20B8} did not register with DCOM within the required timeout.
+Error,08-09-2016 10:31:51 AM,Service Control Manager,7023,None,"The Connected Devices Platform Service service terminated with the following error: 
+Unspecified error"
+Error,08-09-2016 09:15:55 AM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x8007007B
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=NetworkAvailable"
+Error,08-09-2016 09:15:52 AM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x8007007B
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=UserLogon;SessionId=8"
+Warning,08-09-2016 09:15:47 AM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x8007007B
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=UserLogon(8)"
+Error,08-09-2016 09:15:45 AM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x8007007B
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=NetworkAvailable"
+Warning,08-09-2016 09:15:42 AM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x8007007B
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=NetworkAvailable"
+Warning,08-09-2016 09:15:37 AM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x8007007B
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=NetworkAvailable"
+Error,08-09-2016 09:15:27 AM,Microsoft-Windows-DistributedCOM,10016,None,"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{8D8F4F83-3594-4F07-8369-FC3C3CAE4919}
+ and APPID 
+{F72671A9-012C-4725-9D2F-2A4D32D65169}
+ to the user NT AUTHORITY\SYSTEM SID (S-1-5-18) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Warning,08-09-2016 09:15:26 AM,Microsoft-Windows-DNS-Client,1014,(1014),Name resolution for the name ping.avast.com timed out after none of the configured DNS servers responded.
+Error,08-09-2016 09:15:21 AM,Microsoft-Windows-Dhcp-Client,1002,Address Configuration State Event,The IP address lease 192.168.0.104 for the Network Card with network address 0xC038969860C7 has been denied by the DHCP server 192.168.0.1 (The DHCP Server sent a DHCPNACK message).
+Warning,08-09-2016 12:46:56 AM,Microsoft-Windows-DNS-Client,1014,(1014),Name resolution for the name settings-win.data.microsoft.com timed out after none of the configured DNS servers responded.
+Error,07-09-2016 11:53:18 PM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x8007007B
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=NetworkAvailable"
+Warning,07-09-2016 11:53:13 PM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x8007007B
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=NetworkAvailable"
+Warning,07-09-2016 11:53:03 PM,Microsoft-Windows-DNS-Client,1014,(1014),Name resolution for the name win10.ipv6.microsoft.com. timed out after none of the configured DNS servers responded.
+Error,07-09-2016 11:52:57 PM,Microsoft-Windows-Dhcp-Client,1002,Address Configuration State Event,The IP address lease 192.168.0.102 for the Network Card with network address 0xC038969860C7 has been denied by the DHCP server 192.168.0.1 (The DHCP Server sent a DHCPNACK message).
+Error,07-09-2016 11:52:55 PM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x8007007B
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=NetworkAvailable"
+Warning,07-09-2016 11:52:54 PM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x8007007B
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=NetworkAvailable"
+Error,07-09-2016 11:16:39 PM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x8007007B
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=NetworkAvailable"
+Warning,07-09-2016 11:16:34 PM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x8007007B
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=NetworkAvailable"
+Error,07-09-2016 11:11:32 PM,Bonjour Service,100,None,Task Scheduling Error: m->NextScheduledSPRetry 4813
+Error,07-09-2016 11:11:32 PM,Bonjour Service,100,None,Task Scheduling Error: m->NextScheduledEvent 4813
+Error,07-09-2016 11:11:32 PM,Bonjour Service,100,None,Task Scheduling Error: Continuously busy for more than a second
+Error,07-09-2016 11:11:31 PM,Bonjour Service,100,None,Task Scheduling Error: m->NextScheduledSPRetry 3547
+Error,07-09-2016 11:11:31 PM,Bonjour Service,100,None,Task Scheduling Error: m->NextScheduledEvent 3547
+Error,07-09-2016 11:11:31 PM,Bonjour Service,100,None,Task Scheduling Error: Continuously busy for more than a second
+Error,07-09-2016 11:11:30 PM,Bonjour Service,100,None,Task Scheduling Error: m->NextScheduledSPRetry 2282
+Error,07-09-2016 11:11:30 PM,Bonjour Service,100,None,Task Scheduling Error: m->NextScheduledEvent 2282
+Error,07-09-2016 11:11:30 PM,Bonjour Service,100,None,Task Scheduling Error: Continuously busy for more than a second
+Error,07-09-2016 11:11:29 PM,Bonjour Service,100,None,Task Scheduling Error: m->NextScheduledSPRetry 1172
+Error,07-09-2016 11:11:29 PM,Bonjour Service,100,None,Task Scheduling Error: m->NextScheduledEvent 1172
+Error,07-09-2016 11:11:29 PM,Bonjour Service,100,None,Task Scheduling Error: Continuously busy for more than a second
+Error,07-09-2016 10:38:38 PM,Microsoft-Windows-DistributedCOM,10016,None,"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{D63B10C5-BB46-4990-A94F-E40B9D520160}
+ and APPID 
+{9CA88EE3-ACB7-47C8-AFC4-AB702511C276}
+ to the user NT AUTHORITY\SYSTEM SID (S-1-5-18) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Error,07-09-2016 10:11:43 PM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x8007007B
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=UserLogon;SessionId=7"
+Error,07-09-2016 10:11:41 PM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x8007007B
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=NetworkAvailable"
+Warning,07-09-2016 10:11:38 PM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x8007007B
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=UserLogon(7)"
+Warning,07-09-2016 10:11:30 PM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x8007007B
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=NetworkAvailable"
+Error,07-09-2016 10:11:26 PM,Microsoft-Windows-DistributedCOM,10016,None,"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{8D8F4F83-3594-4F07-8369-FC3C3CAE4919}
+ and APPID 
+{F72671A9-012C-4725-9D2F-2A4D32D65169}
+ to the user NT AUTHORITY\SYSTEM SID (S-1-5-18) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Error,07-09-2016 07:02:35 PM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x8007007B
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=UserLogon;SessionId=6"
+Warning,07-09-2016 07:02:31 PM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x8007007B
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=UserLogon(6)"
+Error,07-09-2016 07:02:18 PM,Microsoft-Windows-DistributedCOM,10016,None,"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{8D8F4F83-3594-4F07-8369-FC3C3CAE4919}
+ and APPID 
+{F72671A9-012C-4725-9D2F-2A4D32D65169}
+ to the user NT AUTHORITY\SYSTEM SID (S-1-5-18) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Error,07-09-2016 07:00:13 PM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x8007139F
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=NetworkAvailable"
+Warning,07-09-2016 07:00:10 PM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x8007007B
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=NetworkAvailable"
+Warning,07-09-2016 06:30:07 PM,Microsoft-Windows-DNS-Client,1014,(1014),Name resolution for the name p2.keywee.co timed out after none of the configured DNS servers responded.
+Error,07-09-2016 06:24:06 PM,Microsoft-Windows-DistributedCOM,10016,None,"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{D63B10C5-BB46-4990-A94F-E40B9D520160}
+ and APPID 
+{9CA88EE3-ACB7-47C8-AFC4-AB702511C276}
+ to the user NT AUTHORITY\SYSTEM SID (S-1-5-18) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Warning,07-09-2016 05:51:11 PM,Microsoft-Windows-DeviceSetupManager,200,None,A connection to the Windows Update service could not be established.
+Warning,07-09-2016 05:51:11 PM,Microsoft-Windows-DeviceSetupManager,202,None,The Network List Manager reports no connectivity to the internet.
+Error,07-09-2016 05:47:19 PM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x8007007B
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=NetworkAvailable"
+Error,07-09-2016 05:47:14 PM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x8007007B
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=NetworkAvailable"
+Warning,07-09-2016 05:47:11 PM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x8007007B
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=NetworkAvailable"
+Warning,07-09-2016 05:47:02 PM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x8007007B
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=NetworkAvailable"
+Error,07-09-2016 05:46:52 PM,Microsoft-Windows-Dhcp-Client,1002,Address Configuration State Event,The IP address lease 192.168.0.102 for the Network Card with network address 0xC038969860C7 has been denied by the DHCP server 192.168.0.1 (The DHCP Server sent a DHCPNACK message).
+Warning,07-09-2016 05:46:11 PM,Microsoft-Windows-DeviceSetupManager,200,None,A connection to the Windows Update service could not be established.
+Warning,07-09-2016 05:46:11 PM,Microsoft-Windows-DeviceSetupManager,202,None,The Network List Manager reports no connectivity to the internet.
+Warning,07-09-2016 05:45:41 PM,Microsoft-Windows-DeviceSetupManager,200,None,A connection to the Windows Update service could not be established.
+Warning,07-09-2016 05:45:41 PM,Microsoft-Windows-DeviceSetupManager,202,None,The Network List Manager reports no connectivity to the internet.
+Warning,07-09-2016 05:45:38 PM,Microsoft-Windows-DeviceSetupManager,201,None,A connection to the Windows Metadata and Internet Services (WMIS) could not be established.
+Warning,07-09-2016 05:45:38 PM,Microsoft-Windows-DeviceSetupManager,202,None,The Network List Manager reports no connectivity to the internet.
+Warning,07-09-2016 05:45:38 PM,Microsoft-Windows-DeviceSetupManager,200,None,A connection to the Windows Update service could not be established.
+Warning,07-09-2016 05:45:38 PM,Microsoft-Windows-DeviceSetupManager,202,None,The Network List Manager reports no connectivity to the internet.
+Error,07-09-2016 05:40:30 PM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x8007267C
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=NetworkAvailable"
+Warning,07-09-2016 05:40:29 PM,Microsoft-Windows-DNS-Client,1014,(1014),Name resolution for the name 1.client-channel.google.com timed out after none of the configured DNS servers responded.
+Error,07-09-2016 05:40:25 PM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x8007007B
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=NetworkAvailable"
+Warning,07-09-2016 05:40:24 PM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x8007007B
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=NetworkAvailable"
+Warning,07-09-2016 05:40:22 PM,Microsoft-Windows-DNS-Client,1014,(1014),Name resolution for the name dns.msftncsi.com timed out after none of the configured DNS servers responded.
+Warning,07-09-2016 05:40:15 PM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x8007007B
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=NetworkAvailable"
+Error,07-09-2016 05:40:08 PM,Microsoft-Windows-Dhcp-Client,1002,Address Configuration State Event,The IP address lease 192.168.0.109 for the Network Card with network address 0xC038969860C7 has been denied by the DHCP server 192.168.0.1 (The DHCP Server sent a DHCPNACK message).
+Error,07-09-2016 05:39:17 PM,Microsoft-Windows-DistributedCOM,10016,None,"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{D63B10C5-BB46-4990-A94F-E40B9D520160}
+ and APPID 
+{9CA88EE3-ACB7-47C8-AFC4-AB702511C276}
+ to the user NT AUTHORITY\SYSTEM SID (S-1-5-18) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Error,07-09-2016 05:18:39 PM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x8007007B
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=NetworkAvailable"
+Warning,07-09-2016 05:18:34 PM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x8007007B
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=NetworkAvailable"
+Error,07-09-2016 05:18:29 PM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x8007007B
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=NetworkAvailable"
+Warning,07-09-2016 05:18:24 PM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x8007007B
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=NetworkAvailable"
+Warning,07-09-2016 05:13:58 PM,Microsoft-Windows-DNS-Client,1014,(1014),Name resolution for the name my.naukri.com timed out after none of the configured DNS servers responded.
+Error,07-09-2016 05:05:02 PM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x8007007B
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=UserLogon;SessionId=5"
+Warning,07-09-2016 05:04:59 PM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x8007007B
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=UserLogon(5)"
+Error,07-09-2016 05:04:47 PM,Microsoft-Windows-DistributedCOM,10016,None,"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{8D8F4F83-3594-4F07-8369-FC3C3CAE4919}
+ and APPID 
+{F72671A9-012C-4725-9D2F-2A4D32D65169}
+ to the user NT AUTHORITY\SYSTEM SID (S-1-5-18) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Error,07-09-2016 05:04:13 PM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x8007139F
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=NetworkAvailable"
+Warning,07-09-2016 05:04:10 PM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x8007007B
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=NetworkAvailable"
+Warning,07-09-2016 03:00:39 PM,Microsoft-Windows-Security-SPP,8233,None,"The rules engine reported a failed VL activation attempt.
+Reason:0x8007007B
+AppId = 0ff1ce15-a989-479d-af46-f275c6370663, SkuId = d450596f-894d-49e0-966a-fd39ed4c4c64
+Trigger=TimerEvent"
+Error,07-09-2016 03:00:15 PM,Microsoft-Windows-Security-SPP,8198,None,"License Activation (slui.exe) failed with the following error code:
+hr=0x8007007B
+Command-line arguments:
+RuleId=502ff3ba-669a-4674-bbb1-601f34a3b968;Action=AutoActivateSilent;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=73111121-5638-40f6-bc11-f1d7b0d64300;NotificationInterval=1440;Trigger=TimerEvent"
