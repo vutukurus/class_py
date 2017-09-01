@@ -1,6 +1,8 @@
 file_name = r"C:\Users\Sreedhar\Desktop\log.txt"
 new_file =r"C:\Users\Sreedhar\Desktop\cleaned.txt"
 
+#This is a code change for os module demo
+
 c= open(new_file,'w')
 
 b= open(file_name, 'r')
