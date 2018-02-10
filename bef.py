@@ -8,4 +8,6 @@ def generate_prime(value):
 	return j
 
 #print generate_prime(100)
+print "adfadsf"
+dsafasdfdsa
 
