@@ -3,6 +3,9 @@ import sqlite3 #mulitple users
 a='''
 10000s
 '''
+
+b = 90
+print b+ 90
 asdfsafsafsad
 #db=MySQLdb.connect("localhost","username","password","dbname")
 test_con = sqlite3.connect("test_db.db")
